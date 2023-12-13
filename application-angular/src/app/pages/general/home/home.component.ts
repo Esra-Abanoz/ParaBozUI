@@ -21,7 +21,7 @@ export class HomeComponent {
   fontawesome = environment.application.fontawesome;
 
   exFunc(){
-    console.log("deneme");
+    console.log("denemeee");
   }
 
   items = [
